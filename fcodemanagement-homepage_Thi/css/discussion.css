@@ -15,7 +15,14 @@ a:hover{
     text-decoration: none;
     color: inherit;
 }
-
+/*
+input:focus {
+    outline: 0;
+    box-shadow: 0 0 10px 10px red;
+    border-color: #333;
+    border: #333 1px solid;
+}
+*/
 .container {
     padding: 0;
     margin: 0;
